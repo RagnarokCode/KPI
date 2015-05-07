@@ -1,0 +1,14 @@
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\InternKPIEcreo.exe.config
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\InternKPIEcreo.exe
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\InternKPIEcreo.pdb
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\EntityFramework.dll
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\EntityFramework.xml
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\obj\Debug\InternKPIEcreo.csprojResolveAssemblyReference.cache
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\obj\Debug\InternKPIEcreo.exe
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\obj\Debug\InternKPIEcreo.pdb
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\Newtonsoft.Json.dll
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\TeamWorkNet.Base.dll
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\Newtonsoft.Json.xml
+c:\users\tl\documents\visual studio 2013\Projects\InternKPIEcreo\InternKPIEcreo\bin\Debug\TeamWorkNet.Base.pdb
