@@ -12,7 +12,7 @@ namespace InternKPIEcreo
     {
         static void Main(string[] args)
         {
-            var _loginToken = TeamworkLoginToken.LoginToken("wine982pizza");
+            var _loginToken = TeamworkLoginToken.LoginToken("");
 
             var test = CompanyPopulation.CompanyUpdateList(_loginToken);
             foreach (var vartest in test)
